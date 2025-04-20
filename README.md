@@ -11,7 +11,7 @@ You can access the API using the following IP address:
 ## How to Run the API
 
 1. **SSH into your GCP VM** where the API is hosted.
-2. Navigate to the directory containing the `app.py` file.
+2. Navigate to the directory containing the `capital.py` file.
 3. Run the following command to start the API:
    python3 capital.py
 
