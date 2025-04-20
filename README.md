@@ -6,9 +6,7 @@ This project is an API that provides the local time for capital cities. The API 
 
 ## Working API URL
 You can access the API using the following IP address:
-
-
-[http://34.85.138.229:5001](http://34.85.138.229:5001/api/time?city=CapitalName)]
+[http://34.85.138.229:5001](http://34.85.138.229:5001)
 
 ## How to Run the API
 
